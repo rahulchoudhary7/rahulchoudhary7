@@ -1,19 +1,21 @@
-<h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
+<h1 align="center">Hi 👋, I'm Rahul</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/r_ahulchoudhary" target="blank"><img src="https://img.shields.io/twitter/follow/r_ahulchoudhary?logo=twitter&style=for-the-badge" alt="r_ahulchoudhary" /></a> </p>
+
+- 👨🏻‍💻 Pronouns: He/Him
 
 - 🔭 I’m currently working on **A clone project of Netflix**
 
 - 🌱 I’m currently learning **React, Node, MongoDB, Firebase**
 
-- 👨‍💻 All of my projects are available at [https://github.com/rahulchoudhary7](https://github.com/rahulchoudhary7)
+- 👨‍💻 All of my projects are available at [https://github.com/rahulchoudhary7](rahulchoudhary7)
 
 - 💬 Ask me about **DSA, React, Web Development**
 
 - 📫 How to reach me **rahulchoudhary0775@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1cKdRhb8sgm2KCm9fWBO-wXwPp8pXiAIa/view?usp=sharing](https://drive.google.com/file/d/1cKdRhb8sgm2KCm9fWBO-wXwPp8pXiAIa/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1cKdRhb8sgm2KCm9fWBO-wXwPp8pXiAIa/view?usp=sharing](
+resume)
 
 - ⚡ Fun fact **I watch movies only when it's 3am**
 
