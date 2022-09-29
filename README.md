@@ -4,18 +4,17 @@
 
 - 👨🏻‍💻 Pronouns: He/Him
 
-- 🔭 I’m currently working on **A clone project of Netflix**
+- 🔭 I’m currently exploring **React**
 
 - 🌱 I’m currently learning **React, Node, MongoDB, Firebase**
 
-- 👨‍💻 All of my projects are available at [https://github.com/rahulchoudhary7](rahulchoudhary7)
+- 👨‍💻 All of my projects are available at [github](https://github.com/rahulchoudhary7)
 
 - 💬 Ask me about **DSA, React, Web Development**
 
-- 📫 How to reach me **rahulchoudhary0775@gmail.com**
+- 📄 Know about my experiences from my [resume](https://drive.google.com/file/d/1cKdRhb8sgm2KCm9fWBO-wXwPp8pXiAIa/view?usp=sharing)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1cKdRhb8sgm2KCm9fWBO-wXwPp8pXiAIa/view?usp=sharing](
-resume)
+- ☕ Hobbies: Like to watch cricket, play badminton
 
 - ⚡ Fun fact **I watch movies only when it's 3am**
 
