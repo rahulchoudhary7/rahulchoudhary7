@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulchoudhary7" alt="rahulchoudhary7" /></a> </p>
+<p align="left"> <a href="https://twitter.com/r_ahulchoudhary" target="blank"><img src="https://img.shields.io/twitter/follow/r_ahulchoudhary?logo=twitter&style=for-the-badge" alt="r_ahulchoudhary" /></a> </p>
 
 - 🔭 I’m currently working on **A clone project of Netflix**
 
