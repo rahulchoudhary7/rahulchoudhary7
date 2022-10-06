@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rahul</h1>
-<h3 align="center">A passionate frontend developer from 🇮🇳</h3>
+<h3 align="center">Pre final year student from NIT Jalandhar, I do DSA for fun </h3>
 
 
 - 👨🏻‍💻 Pronouns: He/Him
 
-- 🔭 I’m currently exploring **React**
+- 🔭 I’m currently exploring **WebD**
 
 - 🌱 I’m currently learning **React, Node, MongoDB, Firebase**
 
@@ -34,6 +34,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulchoudhary7&show_icons=true&locale=en&layout=compact" alt="rahulchoudhary7" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulchoudhary7&show_icons=true&locale=en" alt="rahulchoudhary7" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulchoudhary7&show_icons=true&locale=en" alt="rahulchoudhary7" /> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulchoudhary7&" alt="rahulchoudhary7" /></p>
