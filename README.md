@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **DSA, React, Node, SpringBoot**
 
-- 📄 Know about my experiences from my [resume](https://drive.google.com/file/d/1cKdRhb8sgm2KCm9fWBO-wXwPp8pXiAIa/view?usp=sharing)
+- 📄 Know about my experiences from my [resume](https://drive.google.com/file/d/1ePxe_8uLApwuAzmv958bxKZFiev_wy4p/view?usp=drive_link)
 
 - ☕ Hobbies: Like to watch cricket, play badminton
 
