@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Rahul</h1>
-<h3 align="center">Final year student from NIT Jalandhar, I do DSA for fun </h3>
+<h3 align="center">SDE Intern @Incture, Undergrad NIT Jalandhar, I do DSA for fun </h3>
 
 
 - 👨🏻‍💻 Pronouns: He/Him
