@@ -8,7 +8,7 @@
 </p>
 🚀 Quick Facts
 🎓 Undergrad at NIT Jalandhar
-💼 SDE Intern at Incture
+💼 SDE at Incture
 👨‍💻 Full Stack Developer (MERN & Java)
 🧩 DSA for fun and growth
 🌟 Building digital solutions, one line of code at a time!
