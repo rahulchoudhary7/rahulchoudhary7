@@ -2,8 +2,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&width=435&lines=Software+Engineer;DSA+Enthusiast;Full+Stack+Developer;Always+Learning" alt="Typing SVG" />
 </p>
+<p align="center">
+  <a href="https://rahul-codes.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://drive.google.com/file/d/1nyaigyfWUvSO2NtGZB8pK8IFtA6xCEUd/view?usp=drivesdk"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/></a>
+</p>
 🚀 Quick Facts
-
 🎓 Undergrad at NIT Jalandhar
 💼 SDE Intern at Incture
 👨‍💻 Full Stack Developer (MERN & Java)
