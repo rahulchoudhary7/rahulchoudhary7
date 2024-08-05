@@ -3,8 +3,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&width=435&lines=Software+Engineer;DSA+Enthusiast;Full+Stack+Developer;Always+Learning" alt="Typing SVG" />
 </p>
 <p align="center">
-  <a href="https://rahul-codes.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://drive.google.com/file/d/1nyaigyfWUvSO2NtGZB8pK8IFtA6xCEUd/view?usp=drivesdk"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/></a>
+  <a target="_blank" href="https://rahul-codes.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Portfolio"/></a>
+  <a target="_blank" href="https://drive.google.com/file/d/1nyaigyfWUvSO2NtGZB8pK8IFtA6xCEUd/view?usp=drivesdk"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/></a>
 </p>
 🚀 Quick Facts<br><br>
 🎓 Undergrad at NIT Jalandhar<br>
@@ -30,8 +30,8 @@
 </p>
 🌱 Currently Learning
 
-🍃 Mastering Spring Boot
-🚂 Diving deeper into Express.js
+🍃 Mastering Spring Boot<br>
+🚂 Diving deeper into Express.js<br>
 🔧 Enhancing Node.js skills
 
 📈 GitHub Stats
@@ -55,10 +55,10 @@
 </p>
 🎬 Fun Facts
 
-⏰ I only watch movies at 3 AM
-🏸 Badminton enthusiast
-🏏 Cricket fanatic
-☕ Fueled by coffee and curiosity
+⏰ I only watch movies at 3 AM<br>
+🏸 Badminton enthusiast<br>
+🏏 Cricket fanatic<br>
+☕ Fueled by coffee and curiosity<br>
 
 
 <p align="center">
