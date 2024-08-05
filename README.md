@@ -6,13 +6,14 @@
   <a href="https://rahul-codes.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Portfolio"/></a>
   <a href="https://drive.google.com/file/d/1nyaigyfWUvSO2NtGZB8pK8IFtA6xCEUd/view?usp=drivesdk"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/></a>
 </p>
-🚀 Quick Facts
-
-🎓 Undergrad at NIT Jalandhar
-💼 SDE at Incture
-👨‍💻 Full Stack Developer (MERN & Java)
-🧩 DSA for fun and growth
+🚀 Quick Facts<br><br>
+🎓 Undergrad at NIT Jalandhar<br>
+💼 SDE at Incture<br>
+👨‍💻 Full Stack Developer (MERN & Java)<br>
+🧩 DSA for fun and growth<br>
 🌟 Building digital solutions, one line of code at a time!
+<br><br>
+
 
 🛠️ Tech Stack & Tools
 <p align="center">
