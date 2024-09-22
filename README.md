@@ -4,7 +4,7 @@
 </p>
 <p align="center">
   <a target="_blank" href="https://rahul-codes.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Portfolio"/></a>
-  <a target="_blank" href="https://drive.google.com/file/d/1A6u2AcfP_ehNFK0ULyVsSgqh9A9T67LQ/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/></a>
+  <a target="_blank" href="https://drive.google.com/file/d/1vuf0tb_GyD822D9cSDhPjaObLOCA09u6/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/></a>
 </p>
 🚀 Quick Facts<br><br>
 🎓 Recent grad NIT Jalandhar<br>
